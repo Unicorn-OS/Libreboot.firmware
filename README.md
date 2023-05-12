@@ -1,4 +1,4 @@
-# Libreboot
+# Libreboot.bootloader
 Home: https://libreboot.org/
 
 source: https://notabug.org/libreboot
