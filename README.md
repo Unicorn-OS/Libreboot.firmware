@@ -1,6 +1,8 @@
 # Libreboot.firmware
 Home: https://libreboot.org/
 
+wiki: https://en.wikipedia.org/wiki/Libreboot
+
 source: https://notabug.org/libreboot
 
 # Ethos:
